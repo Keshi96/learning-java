@@ -1,5 +1,5 @@
 public class Keshi{
-    public static void main(Strings[]Arg){
+    public static void main(Arg[]Strings){
         short b = 4;
         short c = 6;
 
