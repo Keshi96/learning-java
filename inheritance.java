@@ -1,9 +1,9 @@
 public class Keshi{
-    public static void main(Arg[]Strings){
+    public static void main(String[]Args){
         short b = 4;
         short c = 6;
 
-        system.out.println(b+c);
+        System.out.println(b+c);
     
     }
 }
