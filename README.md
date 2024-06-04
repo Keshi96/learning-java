@@ -1,2 +1,3 @@
 # learning-java
-This is my first java backend development 
+
+This is the code base/repo for all my java project 
