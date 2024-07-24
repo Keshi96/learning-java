@@ -8,6 +8,8 @@ public class AssAritO{
         byte y = x++;
         
         x++; //Independent copying of values by primitive datatype
+
+        int v = Math.pow(2,2);
         System.out.println(y);
         System.out.println(x);
     }
